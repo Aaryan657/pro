@@ -17,5 +17,5 @@ yesButton.addEventListener('click', () => {
     alert("Yay! She said yes!");
 });
 noButton.addEventListener('click', () => {
-    alert("Oh no! She said no!");
+    alert("Yay! She said yes!");
 });
